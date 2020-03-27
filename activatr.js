@@ -17,7 +17,7 @@ var longtimeout = 8000;
 
 /* CODE */
 
-const yt = new YouTube(channel, key2);
+const yt = new YouTube(channel, key);
 
 yt.on('ready', () => {
     console.log("Start!")
