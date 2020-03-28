@@ -6,11 +6,11 @@ const config = require('./config.json');
 
 /* CODE */
 
-const yt = new YouTube(config.channel, config.key2);
+const yt = new YouTube(config.youtubechannelid, config.googleapikey);
 
 yt.on('ready', () => {
     console.log("Start!")
-    yt.listen(config.parsetimeout)
+    yt.listen(config.chatparsetimeout)
 })
 
 yt.on('message', data => {

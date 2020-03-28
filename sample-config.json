@@ -1,6 +1,6 @@
 {
-    "key": "AIzaSyDqKu4zR00WE46RJHpqPHy4R5Z50qXsJcc",
-    "channel": "UCSJ4gkVC6NrvII8umztf0Ow",
-    "parsetimeout": "3000",
-    "timeout": "4000"
+    "googleapikey": "AIzaSyDqKu4zR00WE46RJHpqPHy4R5Z50qXsJcc",
+    "youtubechannelid": "UCSJ4gkVC6NrvII8umztf0Ow",
+    "chatparsetimeout": "3000",
+    "commandtimeout": "4000"
 }
