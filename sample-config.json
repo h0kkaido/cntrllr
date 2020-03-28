@@ -1,6 +1,6 @@
 {
-    "googleapikey": "AIzaSyDqKu4zR00WE46RJHpqPHy4R5Z50qXsJcc",
-    "youtubechannelid": "UCSJ4gkVC6NrvII8umztf0Ow",
+    "googleapikey": "KEY",
+    "youtubechannelid": "ID",
     "chatparsetimeout": "3000",
     "commandtimeout": "4000"
 }
