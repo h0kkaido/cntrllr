@@ -1,7 +1,6 @@
 /* REQUIRE */
 
 var ks = require('node-key-sender');
-ks.setOption('globalDelayPressMillisec', 2000);
 const YouTube = require('youtube-live-chat');
 const config = require('./config.json');
 
